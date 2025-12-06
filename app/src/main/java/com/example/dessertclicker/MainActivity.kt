@@ -73,7 +73,7 @@ import com.example.dessertclicker.model.Dessert
 import com.example.dessertclicker.ui.theme.DessertClickerTheme
 
 
-private const val TAG = "MainActivity"
+private const val TAG = "MainActivityLC"
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         enableEdgeToEdge()
